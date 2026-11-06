@@ -1,1 +1,0 @@
-Download `marketing_campaign.csv` from https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis and put it in this folder. It is not included in this starter kit.
