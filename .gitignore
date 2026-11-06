@@ -1,0 +1,19 @@
+# Python and Jupyter caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Virtual environments and credentials
+.venv/
+venv/
+.env
+.env.*
+*.key
+
+# Temporary editor and OS files
+.DS_Store
+Thumbs.db
+
+# Local archives (if created for personal backup)
+*.zip
